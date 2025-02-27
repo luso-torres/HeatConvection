@@ -6,6 +6,12 @@ The analysis utilized the transient Control Volume Finite Element Method (CVFEM)
 
 Additionally, the project includes mesh characterization and an assessment of associated errors with the technique.
 
-A video demonstrating the technique is available at: [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/)]([https://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE](https://youtu.be/4YCkdnhKCBk?si=rTOc3xx30IJgp-dx))
+A video demonstrating the technique is available at:
+
+<div align="center">
+  <video src="[myvideo.mp4](https://img.youtube.com/vi/4YCkdnhKCBk/0.jpg)" width="400" />
+</div>
+
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/4YCkdnhKCBk/0.jpg)]()
 
 
