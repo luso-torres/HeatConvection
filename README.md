@@ -12,6 +12,6 @@ A video demonstrating the technique is available at:
   <video src="[myvideo.mp4](https://img.youtube.com/vi/4YCkdnhKCBk/0.jpg)" width="400" />
 </div>
 
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/4YCkdnhKCBk/0.jpg)](https://img.youtube.com/vi/4YCkdnhKCBk/0.jpg)
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/4YCkdnhKCBk/0.jpg)](https://www.youtube.com/watch?v=4YCkdnhKCBk/0.jpg)
 
 
